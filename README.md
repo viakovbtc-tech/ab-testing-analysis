@@ -39,7 +39,7 @@ Four key metrics were analyzed:
 
 The results are visualized in Tableau using an interactive dashboard.
 
-![Dashboard](dashboard/tableau_dashboard.png)
+![Dashboard](tableau_dashboard.png)
 
 ## Key Insights
 
