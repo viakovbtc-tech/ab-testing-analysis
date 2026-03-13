@@ -1,0 +1,17 @@
+test_number,metric,numerator_event,denominator_event,numerator_control,denominator_control,conversion_rate_control,numerator_variant,denominator_variant,conversion_rate_variant,metric_change,z_stat,p_value,significant
+1,add_payment_info,add_payment_info,session,1988,45362,0.043825,2229,45193,0.049322,12.542,3.925,8.7e-05,True
+1,add_shipping_info,add_shipping_info,session,3034,45362,0.066884,3221,45193,0.071272,6.56,2.604,0.009226,True
+1,begin_checkout,begin_checkout,session,3784,45362,0.083418,4021,45193,0.088974,6.661,2.979,0.002894,True
+1,new_accounts,new_accounts,session,3823,45362,0.084278,3681,45193,0.081451,-3.354,-1.543,0.122859,False
+2,add_payment_info,add_payment_info,session,2344,50637,0.04629,2409,50244,0.047946,3.577,1.241,0.214608,False
+2,add_shipping_info,add_shipping_info,session,3480,50637,0.068724,3510,50244,0.069859,1.651,0.71,0.477979,False
+2,begin_checkout,begin_checkout,session,4262,50637,0.084168,4313,50244,0.085841,1.988,0.953,0.340642,False
+2,new_accounts,new_accounts,session,4165,50637,0.082252,4184,50244,0.083274,1.242,0.589,0.556,False
+3,add_payment_info,add_payment_info,session,3623,70047,0.051722,3697,70439,0.052485,1.475,0.643,0.520112,False
+3,add_shipping_info,add_shipping_info,session,5298,70047,0.075635,5188,70439,0.073652,-2.621,-1.414,0.157442,False
+3,begin_checkout,begin_checkout,session,9532,70047,0.13608,9264,70439,0.131518,-3.352,-2.511,0.012026,True
+3,new_accounts,new_accounts,session,5856,70047,0.083601,5822,70439,0.082653,-1.134,-0.643,0.519907,False
+4,add_payment_info,add_payment_info,session,3731,105079,0.035507,3601,105141,0.034249,-3.541,-1.571,0.116158,False
+4,add_shipping_info,add_shipping_info,session,5128,105079,0.048801,4956,105141,0.047137,-3.411,-1.786,0.074132,False
+4,begin_checkout,begin_checkout,session,12555,105079,0.119482,12267,105141,0.116672,-2.352,-1.996,0.045934,True
+4,new_accounts,new_accounts,session,8984,105079,0.085498,8687,105141,0.082622,-3.363,-2.375,0.017527,True
