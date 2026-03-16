@@ -37,7 +37,7 @@ Four key metrics were analyzed:
 
 ## Dashboard
 
-The results are visualized in Tableau (![Link to review](https://public.tableau.com/app/profile/viachelav.kovalchuk/viz/shared/2YFHPYTHJ)) using an interactive dashboard.
+The results are visualized in Tableau ([Link to review](https://public.tableau.com/app/profile/viachelav.kovalchuk/viz/shared/2YFHPYTHJ)) using an interactive dashboard.
 
 ![Dashboard](dashboard/tableau_dashboard.png)
 
